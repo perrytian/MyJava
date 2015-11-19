@@ -1,5 +1,7 @@
 package myjava.designpattern.iterator;
 
+import java.util.Iterator;
+
 public class Waitress {
 
 	PancakeHouseMenu pancakeHouseMenu;

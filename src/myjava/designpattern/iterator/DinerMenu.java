@@ -1,4 +1,5 @@
 package myjava.designpattern.iterator;
+import java.util.Iterator;
 
 public class DinerMenu {
 	static final int Max_ITEMS = 6;
